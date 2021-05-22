@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+fear is the new greed?
 Use the left arrow to go back!
